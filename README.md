@@ -1,8 +1,8 @@
-# Welcome! I am [Annika](https://annika-klu.github.io), full stack web developer.
+# Welcome! I am Annika, a full stack web developer.
 
 ## Summary
 
-Though I love design and enjoy frontend projects once in a while, backend is my true hobby horse. What I love most is to structure and evaluate data, especially with SQL. Future personal projects will cover more of that.
+Though I love design and enjoy frontend projects once in a while, backend is my true hobby horse. What I love most is to structure and evaluate data, especially with SQL. Future personal projects will cover more of that. Feel free to visit my [portfolio](https://annika-klu.github.io).
 
 ## Tech Stack
 
