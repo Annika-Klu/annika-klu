@@ -1,6 +1,6 @@
 # Welcome! I am Annika, a full stack web developer.
 
-## Summary
+## Profile
 
 Though I love design and enjoy frontend projects once in a while, backend is my true hobby horse. What I love most is to structure and evaluate data, especially with SQL. Future personal projects will cover more of that. Feel free to visit my [portfolio](https://annika-klu.github.io).
 
