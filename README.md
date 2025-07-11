@@ -1,4 +1,4 @@
-# Welcome! I am Annika, a full stack web developer.
+# Welcome! I am Annika, a full-stack web developer.
 
 ## Profile
 
